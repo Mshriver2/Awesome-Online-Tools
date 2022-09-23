@@ -16,4 +16,14 @@
 
 [JsonEditorOnline](http://jsoneditoronline.org/) - Json Editor
 
-[Cli.im](https://cli.im/) - QRCode Generator
+[Cli.im](https://formatswap.com/tools/string-to-hex-binary-converter/) - A Binary and Hex to string converter
+
+[Text to MD4 Converter](https://formatswap.com/tools/text2md4/) - Easily convert text to MD4
+
+[Text to MD5 Converter](https://formatswap.com/tools/text2md5/) - Easily convert text to MD5
+
+[Text to SHA256 Converter](https://formatswap.com/tools/text2sha256/) - A string to SHA256 converter tool
+
+[Text to SHA512 Converter](https://formatswap.com/tools/text2sha512/) - A string to SHA512 converter tool
+
+[Base64 Converter](https://formatswap.com/tools/base64-converter/) - An easy to use Base64 encoder and decoder tool
