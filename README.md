@@ -6,6 +6,12 @@
 
 [SmallPDF](https://smallpdf.com/) - We make PDF easy.
 
+[PDF to PNG Converter](https://formatswap.com/tools/pdf2png/) - Convert your file from Portable Document Format to Portable Network Graphics PNG format.
+
+[PDF to JPG Converter](https://formatswap.com/tools/pdf2jpg/) - Convert your file from Portable Document Format to Joint Photographic Experts Group JFIF format.
+
+[JPG to PDF Converter](https://formatswap.com/tools/jpg2pdf/) - Convert your file from Joint Photographic Experts Group JFIF format to Portable Document Format.
+
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
 [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer
