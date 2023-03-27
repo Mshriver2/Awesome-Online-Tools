@@ -1,6 +1,10 @@
 # Awesome-Online-Tools
 
-[Png2Jpg](https://formatswap.com/png2jpg) - A powerful easy to use Png to Jpg image converter.
+[WEBM to MP4 Converter](https://formatswap.com/tools/webm2mp4/) - A easy to use webm to mp4 video conversion tool.
+
+[WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
+
+[Png2Jpg](https://formatswap.com/png2jpg/) - A powerful easy to use Png to Jpg image converter.
 
 [SpriteCow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 
