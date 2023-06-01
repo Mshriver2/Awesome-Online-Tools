@@ -15,9 +15,18 @@
 [WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
 
 ## Video Utilities
+[AVI to MP4 Converter](https://formatswap.com/tools/avi-mp4/) - A simple avi to mp4 video conversion tool.
+
+[MP4 to AVI Converter](https://formatswap.com/tools/mp4-avi/) - A easy to use mp4 to avi video conversion tool.
+
+[MP4 to MOV Converter](https://formatswap.com/tools/mp4-mov/) - Easily convert mp4 video to mov format.
+
 [WEBM to MP4 Converter](https://formatswap.com/tools/webm2mp4/) - A easy to use webm to mp4 video conversion tool.
 
 ## Document Utilities
+[DOCX to PDF Converter](https://formatswap.com/tools/docx-pdf/) - Convert your file from Microsoft Word (Open XML) to Portable Document Format.
+
+[DOC to PDF Converter](https://formatswap.com/tools/doc-pdf/) - Convert your file from Microsoft Word Binary File Format to Portable Document Format.
 
 ## Programming Utilities
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
