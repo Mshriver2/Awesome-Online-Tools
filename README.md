@@ -10,6 +10,7 @@
 [PDF to JPG Converter](https://formatswap.com/tools/pdf2jpg/) - Convert your file from Portable Document Format to Joint Photographic Experts Group JFIF format.
 
 [JPG to PDF Converter](https://formatswap.com/tools/jpg2pdf/) - Convert your file from Joint Photographic Experts Group JFIF format to Portable Document Format.
+[FreePNGConvert](https://freepngconvert.com/) - Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 ## Audio Utilities
 [WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
