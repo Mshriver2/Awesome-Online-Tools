@@ -1,5 +1,11 @@
 # Awesome-Online-Tools
 
+## Commercial
+
+[ProductDirs](https://productdirs.com/) - AI tools and tech product discovery directory with daily launches and curated reviews.
+
+[ThisTools](https://thistools.app/) - Tech product discovery platform for browsing and upvoting daily launches.
+
 ## Image Utilities
 [SpriteCow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 
