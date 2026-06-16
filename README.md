@@ -9,6 +9,8 @@
 
 [PDF to JPG Converter](https://formatswap.com/tools/pdf2jpg/) - Convert your file from Portable Document Format to Joint Photographic Experts Group JFIF format.
 
+[Mini Tools PDF to Image Converter](https://mini-tools.uk/pdf2img) - Convert PDF pages to PNG or JPG images in the browser.
+
 [JPG to PDF Converter](https://formatswap.com/tools/jpg2pdf/) - Convert your file from Joint Photographic Experts Group JFIF format to Portable Document Format.
 
 ## Audio Utilities
@@ -36,6 +38,8 @@
 [TablesGenerator](http://www.tablesgenerator.com/markdown_tables) - Markdown Tables Generator
 
 [JsonEditorOnline](http://jsoneditoronline.org/) - Json Editor
+
+[Mini Tools JSON Formatter](https://mini-tools.uk/json) - Format, validate, minify and inspect JSON in the browser.
 
 [Cli.im](https://formatswap.com/tools/string-to-hex-binary-converter/) - A Binary and Hex to string converter
 
