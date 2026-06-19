@@ -11,6 +11,8 @@
 
 [JPG to PDF Converter](https://formatswap.com/tools/jpg2pdf/) - Convert your file from Joint Photographic Experts Group JFIF format to Portable Document Format.
 
+[AI Image Combiner](https://aiimgcombiner.com/) - Free online photo combiner that blends two images with AI presets or custom prompts in your browser.
+
 ## Audio Utilities
 [WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
 
