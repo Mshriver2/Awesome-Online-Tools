@@ -28,6 +28,9 @@
 
 [DOC to PDF Converter](https://formatswap.com/tools/doc-pdf/) - Convert your file from Microsoft Word Binary File Format to Portable Document Format.
 
+## Calculator Utilities
+[Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, bag counts, ready-mix comparisons, footings, post holes, and project cost planning.
+
 ## Programming Utilities
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
