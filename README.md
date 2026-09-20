@@ -28,6 +28,8 @@
 
 [DOC to PDF Converter](https://formatswap.com/tools/doc-pdf/) - Convert your file from Microsoft Word Binary File Format to Portable Document Format.
 
+[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, and receipt generators (print to PDF, no signup).
+
 ## Programming Utilities
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
