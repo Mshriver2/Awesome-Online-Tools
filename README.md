@@ -14,6 +14,8 @@
 ## Audio Utilities
 [WAV to MP3 Converter](https://formatswap.com/tools/wav2mp3/) - A easy to use wav to mp3 audio conversion tool.
 
+[QuietTake Noise Remover](https://noiseremover.site/) - Free browser-based speech noise reduction using local RNNoise, with original/cleaned comparison and WAV export; accepts recordings up to 50 MB and five minutes.
+
 ## Video Utilities
 [AVI to MP4 Converter](https://formatswap.com/tools/avi-mp4/) - A simple avi to mp4 video conversion tool.
 
