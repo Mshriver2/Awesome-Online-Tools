@@ -28,6 +28,9 @@
 
 [DOC to PDF Converter](https://formatswap.com/tools/doc-pdf/) - Convert your file from Microsoft Word Binary File Format to Portable Document Format.
 
+## Home & Construction Utilities
+[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimate U.S. roof replacement cost ranges by size, material, location, and tear-off choice.
+
 ## Programming Utilities
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
